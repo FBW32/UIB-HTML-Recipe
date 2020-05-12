@@ -1,0 +1,43 @@
+* {
+  background-color: lightgray;
+}
+h1,
+h2 {
+  color: blue;
+  text-align: center;
+}
+h3 {
+  color: indianred;
+  text-align: center;
+}
+.tooltip {
+  position: relative;
+  display: block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+ul {
+  font-size: 20px;
+  color: indigo;
+}
+ol {
+  font-size: 20px;
+  color: green;
+}
+p {
+  font-size: 30px;
+  text-align: center;
+}
