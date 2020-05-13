@@ -1,0 +1,21 @@
+ul{
+    color: blue;
+    font-size: larger;
+    font-style: italic;
+}
+ol{
+    color: crimson;
+    font-size: larger;
+    font-style: oblique;
+}
+h1{
+    color: darkgreen;
+    font-style: italic;
+}
+h2{
+    color: darkmagenta;
+    font-family: cursive;
+} 
+h3{
+    color: olive;
+}
